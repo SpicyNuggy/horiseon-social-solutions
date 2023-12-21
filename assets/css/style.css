@@ -3,13 +3,13 @@
     padding: 0;
     margin: 0;
 }
-
+/* Body Style */
 body{
     margin: 0;
     background-color: #d9dcd6;
 }
 
-
+/* Header style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -54,6 +54,7 @@ p {
 }
 
 .hero {
+    /* Hero section style */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -61,7 +62,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Floating elements style */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -71,7 +72,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* Content section styling */
 .content {
     width: 75%;
     display: inline-block;
