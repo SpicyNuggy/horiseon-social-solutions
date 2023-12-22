@@ -13,3 +13,6 @@ This weeks challenge was to refactor code for the Horiseon webpage to make it mo
 * Updated CSS to fix divergence between the style sheet and HTML
 * Corrected missing id in the navigation menu so that links worked better
 * Added comments in HTML and CSS to make it easier to read and more concise
+
+## Image of Site 
+![Alt text](assets/images/Horiseon-screenshot.png "Horiseon")
