@@ -14,5 +14,8 @@ This weeks challenge was to refactor code for the Horiseon webpage to make it mo
 * Corrected missing id in the navigation menu so that links worked better
 * Added comments in HTML and CSS to make it easier to read and more concise
 
-## Image of Site 
+# Site Image 
 ![Alt text](assets/images/Horiseon-screenshot.png "Horiseon")
+
+# Site Link
+http://127.0.0.1:5500/index.html
