@@ -17,5 +17,19 @@ This weeks challenge was to refactor code for the Horiseon webpage to make it mo
 # Site Image 
 ![Alt text](assets/images/Horiseon-screenshot.png "Horiseon")
 
+# Resources & Collaborators
+
+UTA Boot Camp Instructors, TA's, AskBCS Learning Assistants, tutors, and class peers.
+
+* https://www.w3schools.com/html/html5_semantic_elements.asp
+
+* https://www.w3schools.com/css/css_syntax.asp
+
+* https://www.youtube.com/watch?v=eDmY17-GuLo&t=605s
+
+* https://www.youtube.com/watch?v=kGW8Al_cga4&t=115s
+
+* https://stackoverflow.com/questions/74479435/correct-usage-of-html-semantic-elements
+
 # Site Link
 http://127.0.0.1:5500/index.html
